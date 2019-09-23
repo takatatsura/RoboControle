@@ -1,0 +1,4 @@
+Controle
+XANALOG	Left stick analog X	3	SLIDER	x	0	1.0	0.0
+ACCEL	Accelerate	1	BUTTON	Thumb	0	0.0	0.0
+TURBO	TURBO YEAH	1	BUTTON	Base 2	0	0.0	0.0
